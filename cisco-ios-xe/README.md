@@ -55,7 +55,7 @@ After launching the sandbox, you will receive an email with the connection detai
 
 ### 6. Store Developer Credentials
 
-At this point, you will see Developer Credentials—a host, username, and password. Store these values in a Keeper Security record named Cisco Authentication Record. You will need this Keeper Security record name in order to run the post-rotation script.
+At this point, you will see Developer Credentials—a host, username, and password. Store these values in a Keeper Security record of type `Login` named as `Cisco Authentication Record`. You will need this Keeper Security record name in order to run the post-rotation script.
 
 ### 7. Add Custom Field to Cisco Authentication Record
 
